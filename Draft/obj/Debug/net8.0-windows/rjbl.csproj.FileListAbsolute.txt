@@ -1,0 +1,11 @@
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.csproj.AssemblyReference.cache
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\Draft.dashboard.resources
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\Draft.Form1.resources
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\Draft.login.resources
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\Draft.RegisterStudent.resources
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\Draft.StudentList.resources
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.csproj.GenerateResource.cache
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.AssemblyInfoInputs.cache
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.AssemblyInfo.cs
+C:\Users\CL2~PC6\Downloads\crud-main (3)\crud-main\Draft\obj\Debug\net8.0-windows\rjbl.csproj.CoreCompileInputs.cache
